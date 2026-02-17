@@ -1,6 +1,9 @@
-# West AI Labs
+<p align="center">
+  <img src="https://raw.githubusercontent.com/westailabs/.github/main/profile/logo.png" width="200" alt="West AI Labs">
+</p>
 
-**AI Infrastructure That Ships in a Box**
+<h1 align="center">West AI Labs</h1>
+<p align="center"><strong>AI Infrastructure That Ships in a Box</strong></p>
 
 We build enterprise-grade AI systems that run on your hardware, under your control.
 
